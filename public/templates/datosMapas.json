@@ -1,0 +1,119 @@
+{
+	"Departamento":[
+		{
+			"id":1,
+			"departamento":"Ancash",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1iframed2396340.6231843345!2d-78.25691166902843!3d-9.448394672405106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sancash%20hospitales!5e0!3m2!1ses!2spe!4v1627704821244!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":2,
+			"departamento":"Apurimac",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1983805.6225065985!2d-74.06794024053188!3d-13.801744886442428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sApurimac%20hospitales!5e0!3m2!1ses!2spe!4v1627704875468!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":3,
+			"departamento":"Arequipa",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d106286.49988128083!2d-71.58473417373881!3d-16.396132678264884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sarequipa%20hospitales!5e0!3m2!1ses!2spe!4v1627703770563!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":4,
+			"departamento":"Ayacucho",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d248748.3427355592!2d-74.3653527221527!3d-13.055212182808667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sAyacucho%20hospitales!5e0!3m2!1ses!2spe!4v1627704911963!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":5,
+			"departamento":"Cajamarca",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d44787.05615180425!2d-78.53200680111084!3d-7.165949880586904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sCajamarca%20hospitales!5e0!3m2!1ses!2spe!4v1627704661851!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":6,
+			"departamento":"Callao",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d62434.95282357024!2d-77.14056740006716!3d-12.030812320782154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sCallao%20hospitales!5e0!3m2!1ses!2spe!4v1627704953867!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":7,
+			"departamento":"Cusco",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d124128.11950601797!2d-72.0105925403282!3d-13.535362107069924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sCuzco%20hospitales!5e0!3m2!1ses!2spe!4v1627704979907!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":8,
+			"departamento":"Huancavelica",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d62255.551184121236!2d-75.02947599695231!3d-12.780332734930518!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sHuancavelica%20hospitales!5e0!3m2!1ses!2spe!4v1627705027778!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":9,
+			"departamento":"Huanuco",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d125765.41693420475!2d-76.37753564857512!3d-9.919855882028013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sHuanuco%20hospitales!5e0!3m2!1ses!2spe!4v1627705068292!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":10,
+			"departamento":"Ica",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d61926.971730205165!2d-75.77317599134324!3d-14.051427914892583!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sIca%20hospitales!5e0!3m2!1ses!2spe!4v1627705103769!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":11,
+			"departamento":"Junín",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1000611.2310636642!2d-75.87746739132804!3d-11.577815034512545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sJunin%20hospitales!5e0!3m2!1ses!2spe!4v1627705123306!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":12,
+			"departamento":"La Libertad",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d353185.79115075123!2d-77.1782338221572!3d-12.030536037467911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sLa%20libertad%20hospitales!5e0!3m2!1ses!2spe!4v1627705202090!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":13,
+			"departamento":"Lambayeque",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d63395.690981855725!2d-79.90564056793644!3d-6.741691263033524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sLambayeque%20hospitales!5e0!3m2!1ses!2spe!4v1627705224677!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":14,
+			"departamento":"Lima",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d124869.71809017085!2d-77.09983611620905!3d-12.031216123574865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sLima%20hospitales!5e0!3m2!1ses!2spe!4v1627705262234!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":15,
+			"departamento":"Loreto",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d5756478.164675412!2d-75.95307783257337!3d-4.932344307947225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sLoreto%20hospitales!5e0!3m2!1ses!2spe!4v1627705319647!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":16,
+			"departamento":"Madre de Dios",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1991784.2315506355!2d-71.38588245367973!3d-12.83011765573246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s%20Madre%20de%20Dios%20hospitales!5e0!3m2!1ses!2spe!4v1627705352331!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":17,
+			"departamento":"Moquegua",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d60983.72146266109!2d-70.96598107572109!3d-17.195362531374027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sMoquegua%20hospitales!5e0!3m2!1ses!2spe!4v1627705376291!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":18,
+			"departamento":"Pasco",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2008489.473516738!2d-76.84866238196443!3d-10.513973471837595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sPasco%20hospitales!5e0!3m2!1ses!2spe!4v1627705395370!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":19,
+			"departamento":"Piura",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d63573.33285474354!2d-80.67804002175234!3d-5.210212254002619!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sPiura%20hospitales!5e0!3m2!1ses!2spe!4v1627705418562!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":20,
+			"departamento":"Puno",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d481262.75601486175!2d-70.39474002667991!3d-15.325387529597485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sHospitales!5e0!3m2!1ses!2spe!4v1627703638567!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":21,
+			"departamento":"San Martín",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d127146.30657999807!2d-80.6791066!3d-5.2119867!3m2!1i1024!2i768!4f13.1!2m1!1sSan%20Martin%20hospitales!5e0!3m2!1ses!2spe!4v1627705465959!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":22,
+			"departamento":"Tacna",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d31856.680720972377!2d-80.45508317374008!3d-3.5678921011365907!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sTumbes%20hospitales!5e0!3m2!1ses!2spe!4v1627705587266!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		},
+		{
+			"id":23,
+			"departamento":"Ucayali",
+			"mapa":"<iframe src='https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d31856.683713945633!2d-80.45508320894974!3d-3.5678057676569535!3m2!1i1024!2i768!4f13.1!2m1!1sUcayali%20hospitales!5e0!3m2!1ses!2spe!4v1627705619625!5m2!1ses!2spe' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy'></iframe>"
+		}
+	]
+}
